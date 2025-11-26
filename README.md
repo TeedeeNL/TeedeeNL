@@ -8,14 +8,14 @@ Ik werk precies.
 Ik lever stabiele code.
 
 Vaardigheden
-PHP
-Laravel
-JavaScript
-HTML
-CSS
-MySQL
-Yii2
-Git
+PHP,
+Laravel,
+JavaScript,
+HTML,
+CSS,
+MySQL,
+Yii2,
+Git en
 Github
 
 Projecten
@@ -24,7 +24,7 @@ Een CRUD-toepassing waarmee beheerders te laat gekomen studenten registreren.
 Ik heb de database ontworpen.
 Ik heb het volledige Yii2 CRUD-systeem gebouwd.
 Technologie: Yii2, PHP, MySQL.
-Link naar repository.
+[Link naar repository.](https://github.com/TeedeeNL/telaat-crud)
 
 Opleidingen en certificaten
 MBO Software Developer niveau 4 (lopende opleiding).
