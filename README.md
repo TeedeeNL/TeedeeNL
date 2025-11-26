@@ -17,7 +17,6 @@ MySQL
 Yii2
 Git
 Github
-Scrum
 
 Projecten
 Te-laat-komers CRUD
