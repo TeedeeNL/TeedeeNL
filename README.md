@@ -1,6 +1,7 @@
 ## Portfolio van Tim Duinker
 
 Over mij
+
 Ik ben tweedejaars student Software Developer aan MBO College Amstelland.
 Ik wil groeien in webdevelopment.
 Ik focus op back-end development.
