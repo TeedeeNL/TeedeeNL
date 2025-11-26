@@ -19,7 +19,7 @@ Yii2,
 Git en
 Github
 
-Projecten.
+Projecten
 
 Te-laat-komers CRUD.
 Een CRUD-toepassing waarmee beheerders te laat gekomen studenten registreren.
