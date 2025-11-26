@@ -1,16 +1,36 @@
-## Hi there 👋
+## Portfolio van Tim Duinker
 
-<!--
-**TeedeeNL/TeedeeNL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Over mij
+Ik ben tweedejaars student Software Developer aan MBO College Amstelland.
+Ik wil groeien in webdevelopment.
+Ik focus op back-end development.
+Ik werk precies.
+Ik lever stabiele code.
 
-Here are some ideas to get you started:
+Vaardigheden
+PHP
+Laravel
+JavaScript
+HTML
+CSS
+MySQL
+Yii2
+Git
+Github
+Scrum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projecten
+Te-laat-komers CRUD
+Een CRUD-toepassing waarmee beheerders te laat gekomen studenten registreren.
+Ik heb de database ontworpen.
+Ik heb het volledige Yii2 CRUD-systeem gebouwd.
+Technologie: Yii2, PHP, MySQL.
+Link naar repository.
+
+Opleidingen en certificaten
+MBO Software Developer niveau 4 (lopende opleiding).
+
+Contact
+timduinker10@gmail.com
+[LinkedIn.](https://www.linkedin.com/in/tim-duinker/)
+[Github.](https://github.com/TeedeeNL)
