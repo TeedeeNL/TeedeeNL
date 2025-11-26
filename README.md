@@ -19,12 +19,14 @@ Yii2,
 Git en
 Github
 
-Projecten
-Te-laat-komers CRUD
+Projecten.
+
+Te-laat-komers CRUD.
 Een CRUD-toepassing waarmee beheerders te laat gekomen studenten registreren.
 Ik heb de database ontworpen.
 Ik heb het volledige Yii2 CRUD-systeem gebouwd.
 Technologie: Yii2, PHP, MySQL.
+
 [Link naar repository.](https://github.com/TeedeeNL/telaat-crud)
 
 Opleidingen en certificaten
