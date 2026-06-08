@@ -56,9 +56,10 @@ Meertalige website (NL/EN) voor een Zumba-instructeur in Haarlem. Online lesroos
 
 | Periode | Functie | Bedrijf |
 |---|---|---|
-| 2024 – heden | Stagiair Full-stack Developer | Cybermatic, Haarlem |
-| 2023 – heden | Eigenaar / Webdesigner | TimWebsites, Haarlem |
-| 2024 | Erasmus+ uitwisseling | ROC van Amsterdam — Malta |
+| 01/2026 – 07/2026 | Stagiair Full-stack Developer | Cybermatic, Haarlem |
+| 2025 – heden | Eigenaar / Webdesigner | TimWebsites, Haarlem |
+| 05/2026 | Erasmus+ uitwisseling | ROC van Amsterdam — Malta |
+| 05/2024 | Hulpkracht | DekaMarkt, Gedempte Oude Gracht, Haarlem |
 
 ---
 
