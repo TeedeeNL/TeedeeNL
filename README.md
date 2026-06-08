@@ -39,7 +39,7 @@ Mijn eigen webdesign-bedrijf. Ik bouw conversiegerichte websites voor lokale ond
 ---
 
 ### [berkandebarber.nl](https://berkandebarber.nl)
-Website voor een barbershop in Haarlem. Strakke branding, lokale SEO en laadtijd onder de 2 seconden op mobiel.
+Één van mijn eerste websites die ik heb gemaakt. Website voor een barbershop in Haarlem. Strakke branding, lokale SEO en laadtijd onder de 2 seconden op mobiel.
 
 `Webdesign` `SEO` `Branding`
 
