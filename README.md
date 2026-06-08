@@ -9,7 +9,7 @@ Full-stack developer in opleiding bij ROC van Amsterdam. Ik bouw websites voor l
 
 - 🎓 MBO Software Developer @ ROC van Amsterdam
 - 💼 Stagiair Full-stack Developer @ Cybermatic, Haarlem
-- 🌍 Erasmus+ uitwisseling — Malta (2024)
+- 🌍 Erasmus+ uitwisseling — Malta (2026)
 - 🏠 Gevestigd in Haarlem, NL
 - 📬 [timduinker10@gmail.com](mailto:timduinker10@gmail.com)
 
